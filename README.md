@@ -21,8 +21,7 @@ Please update your Node.js version or visit https://nodejs.org/ for additional i
 
 > Running `$ NG_DISABLE_VERSION_CHECK=1 npx @angular/cli@10 update @angular/core@10 @angular/cli@10` will not prompt to update your node to v18.
 
-> The following migrations will fail `update-module-and-target-compiler-options`
-`remove-solution-style-tsconfig`
+> The following migrations will fail `update-module-and-target-compiler-options`, `remove-solution-style-tsconfig`
 
 # From v8.2.14 to v9.1.13
 ran `NG_DISABLE_VERSION_CHECK=1 npx @angular/cli@9 update @angular/core@9 @angular/cli@9`

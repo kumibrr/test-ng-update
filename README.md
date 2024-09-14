@@ -2,7 +2,12 @@
 
 This repo is a experiment of a rolling update from v6.2.9 at the time of v18.2.4 following [the Angular update guide](https://angular.dev/update-guide) to see what errors I encounter.
 
-# From v10.2.5 to v11
+#  From v11.2.14 to v12.2.18
+ran `ng update @angular/core@12 @angular/cli@12`
+
+> The update went smooth. No errors at all
+
+# From v10.2.5 to v11.2.14
 ran `ng update @angular/core@11 @angular/cli@11`
 
 > The update went smooth. No errors at all
